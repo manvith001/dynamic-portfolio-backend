@@ -51,14 +51,14 @@ dynamic-portfolio-backend/
 
 ### 1. Clone the repo
 
-```bash
+
 git clone https://github.com/your-username/dynamic-portfolio-backend.git
+
+### 2. Clone the repo
 cd dynamic-portfolio-backend
 
-3. Run the server
-bash
-Copy
-Edit
+##3. Run the server
+
 npm run dev
 Visit: http://localhost:8000/api/portfolio
 
